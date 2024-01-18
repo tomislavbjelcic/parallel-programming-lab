@@ -1,0 +1,1 @@
+gcc main.c -g -Wall -Wextra -std=c11 -lmsmpi -I "C:\Program Files (x86)\Microsoft SDKs\MPI\Include" -L "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64"

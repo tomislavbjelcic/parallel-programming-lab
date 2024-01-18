@@ -1,2 +1,1 @@
-# parallel-programming-lab
-Parallel Programming course laboratory exercises.
+https://www.fer.unizg.hr/predmet/parpro
